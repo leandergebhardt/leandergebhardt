@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning React, Vue.js. 
+- 🌱 I’m currently finishing my Beachelor at HTW Berlin. 
 - 👯 I’m looking to collaborate on creative projects.
-- 💬 Ask me about Vue.js, Java, magica voxel.
+- 💬 Ask me about Vue.js, Java, magica voxel and gaming.
 - 📫 How to reach me: Leander.Gebhardt@student.htw-berlin.de
 - 😄 Pronouns: he/him/his
 
