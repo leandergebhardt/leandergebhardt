@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🧑‍🎓 I’m currently finishing my Beachelor at HTW Berlin. 
+- 📜 I finished my Bachelor of Science diploma in international media and computing @ HTW Berlin. 
 - 👯 I’m looking to collaborate on creative projects.
 - 💬 Ask me about Vue.js, Java, magica voxel and gaming.
 - 📫 How to reach me: Leander.Gebhardt@student.htw-berlin.de
