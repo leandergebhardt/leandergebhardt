@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 📜 I finished my Bachelor of Science diploma in international media and computing @ HTW Berlin. 
-- 📖 Currently learning TypeScript, Vue 3.x, Japanese 🇯🇵
+- 👨‍🎓 finished my Bachelor of Science in international media and computing @ HTW Berlin. 
+- 📖 Currently learning Kotlin, OSGi, Japanese 🇯🇵
 - 👯 I’m looking to collaborate on creative projects.
 - 💬 Ask me about Vue.js, Java, magica voxel and gaming.
 - 📫 How to reach me: work@leandergebhardt.com
